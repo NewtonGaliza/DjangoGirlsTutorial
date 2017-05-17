@@ -14,7 +14,7 @@ SECRET_KEY = 'djahd2-_9tcu5%o73aqa9_sy#&92bc_m@qetluezeej0^q!d0@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['newtonjgaliza.pythonanywhere.com']
 
 
 # Application definition
